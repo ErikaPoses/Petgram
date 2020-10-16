@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Petagram</string>
+    <string name="nombre">Laika</string>
+    <string name="telefono">(+598) 99 111 111</string>
+    <string name="mail">erika@gmail.com</string>
+
+    <string name="pfoto">Foto</string>
+    <string name="pnombre">Nombre</string>
+    <string name="ptelefono">Telefono</string>
+    <string name="pmail">Mail</string>
+</resources>
